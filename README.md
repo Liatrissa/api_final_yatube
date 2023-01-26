@@ -12,9 +12,9 @@ Python 3.8, Django 3.2, DRF, JWT + Djoser
 ### Запуск проекта:
 - Клонировать репозиторий и перейти в него в командной строке.
 - Установить и активировать виртуальное окружение c учетом версии Python 3.8:
-python -m venv venv
-venv/Scripts/activate
-python -m pip install --upgrade pip
+### python -m venv venv
+### venv/Scripts/activate
+### python -m pip install --upgrade pip
 - Затем нужно установить все зависимости из файла requirements.txt
 pip install -r requirements.txt
 - Выполняем миграции:
